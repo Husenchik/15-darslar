@@ -1,0 +1,142 @@
+.flex-box{
+	display: flex;
+	justify-content: space-evenly;
+
+}
+.flex-box div p{
+	margin-top: -30px;
+}
+.flex-boxs{
+	display: block;
+	justify-content: space-evenly;
+	text-align: center;
+}
+.button{
+	background: #6E38F7;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 20px;
+	width: 150px;
+	text-align: center;
+	border: none;
+	margin-left: 575px;
+}
+.nav{
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	text-align: center;
+	margin-left: 575px;
+}
+
+.dev{
+	display: flex;
+	justify-content: space-evenly;
+}
+.text1m{
+	display: flex;
+	justify-content: space-evenly;
+}
+.qwerty{
+	background: #6E38F7;
+	color: white;
+	border: none;
+	width: 150px;
+	border-radius: 10px;
+}
+.global{
+	display: flex;
+	justify-content: space-evenly;	
+}
+.w{
+	display: flex;
+	justify-content: space-evenly;
+}
+.div p{
+	display: flex;
+	justify-content: space-evenly;
+}
+.s{
+	display: flex;
+	justify-content: space-evenly;
+}
+.img7{
+	display: flex;
+	justify-content: space-evenly;
+}
+.img8{
+	display: flex;
+	justify-content: space-evenly;
+}
+.img9{
+	display: flex;
+	justify-content: space-evenly;
+}
+.divn{
+	display: flex;
+	justify-content: space-evenly;
+}
+.lex{
+	display: flex;
+	justify-content: space-around;
+}
+
+.mix h1{
+	text-align: center;
+}
+.mix p{
+	text-align: center;
+}
+.img009{
+	margin-left: 100px;
+}
+.submit{
+	background: darkblue;
+	color: white;
+	width: 300px;
+}
+.ddiv{
+	text-align: center;
+}
+.ddiv p{
+	color: gray;
+}
+.ddiv input{
+	margin-top: 20px;
+	width: 300px;
+}
+.submit2{
+	border-color: darkblue;
+}
+.like h1{
+	margin-left: 100px;
+}
+.like p{
+	margin-left: 100px;
+}
+.like input{
+	margin-left: 100px;
+}
+.like img{
+	margin-left: 300px;
+	margin-top: -180px;
+	width: 450px;
+}
+.img007{
+	margin-left: 20px;
+}
+.img008{
+	float: right;
+	margin-right: 20px;
+}
+.get p{
+	margin-top: -40px;
+	text-align: center;
+}
+.ul-li {
+	display: flex;
+	justify-content: space-evenly;
+	list-style: none;
+}
